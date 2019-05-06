@@ -27,8 +27,8 @@
     "repositories":
     [
             {
-                "type": "vcs",
-                "url": "https://github.com/io4n/yii2-dynamicform"
+                "type": "git",
+                "url": "https://github.com/io4n/yii2-dynamicform.git"
             }
     ],
     "require": {

@@ -24,6 +24,13 @@
             "homepage": "http://wbraganca.com"
         }
     ],
+    "repositories":
+    [
+            {
+                "type": "vcs",
+                "url": "https://github.com/io4n/yii2-dynamicform"
+            }
+    ],
     "require": {
         "yiisoft/yii2": "~2.0.5",
         "symfony/css-selector": "~2.8|~3.0",
